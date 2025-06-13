@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guangyu Wei"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Focusing on efficient deployment and fake news detection"
 repository               : "wgyhhhh/wgyhhhh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wgyhhhh"
+  github           : "https://github.com/wgyhhhh"
   google_plus      :
   keybase          :
   instagram        :
