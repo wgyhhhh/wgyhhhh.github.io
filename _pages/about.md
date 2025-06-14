@@ -24,8 +24,12 @@ I'm a third year undergraduate student from [School of Haide](https://icse.uestc
 
 # 📝 Publications 
 
+# 🎖 Honors and Awards
+
 # 📖 Educations
 - *2022.09 - 2025.06(now)*, Undergraduate, Haide College, Ocean Univeristy of China, Qingdao. 
+
+# 👨‍💻 Personal Blog
 
 # 💻 Internships
 - *2024.12 - present*, University of Nanjing, China.
