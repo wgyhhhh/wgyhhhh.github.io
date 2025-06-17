@@ -22,7 +22,7 @@ I'm a third year undergraduate student from [School of Haide](https://icse.uestc
 
 # 🔥 News
 
-- *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
+- &nbsp;🎉🎉 *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
 
 # 📝 Publications 
 
