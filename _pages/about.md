@@ -24,6 +24,13 @@ I'm a third year undergraduate student from [School of Haide](https://icse.uestc
 
 # 📝 Publications 
 
+## 📜Preprints
+
+## 📄 Conferences
+
+## 📔 Journals
+
+
 # 🎖️ Honors and Awards
 
 # 📖 Educations
