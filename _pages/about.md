@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year undergraduate student from [School of Haide](https://icse.uestc.edu.cn/), [Ocean University of China](https://uestc.edu.cn/). My research interest includes deep learning, computer vision, fake news detection and efficient deployment.
+I'm a third year undergraduate student from [School of Haide](https://icse.uestc.edu.cn/), [Ocean University of China](https://uestc.edu.cn/). My research interest includes medical image analysis, fake news detection and efficient AI.
 
 
 # 🔥 News
+
+- *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
 
 # 📝 Publications 
 
