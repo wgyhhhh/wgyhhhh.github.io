@@ -38,5 +38,6 @@ I'm a third year undergraduate student from [School of Haide](https://icse.uestc
 
 # 👨‍💻 Personal Blog
 
-# 💻 Internships
-- *2024.12 - present*, University of Nanjing, China.
+# 💻 Experience
+- Internship, *2024.12 - present*
+  - University of Nanjing, China. Advised by Dr. **Yueming LV** while working on fake news detection.
