@@ -38,6 +38,9 @@ I'm a third year undergraduate student from [Ocean University of China](https://
 
 Baixiang Huang, Yu Luo, **Guangyu Wei**, et al.
 
+</div>
+</div>
+
 # 🎖️ Honors and Awards
 
 # 📖 Educations
