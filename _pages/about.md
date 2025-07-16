@@ -34,7 +34,7 @@ I'm a third year undergraduate student from [Ocean University of China](https://
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Physics</div><img src='images/medical physics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Deep Learning Model for Coronary Artery Segmentation and Quantitative Stenosis Detection in Angiographic Images]()
+[Deep Learning Model for Coronary Artery Segmentation and Quantitative Stenosis Detection in Angiographic Images](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970)
 
 Baixiang Huang, Yu Luo, **Guangyu Wei**, et al.
 
