@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year undergraduate student from [Ocean University of China](https://www.ouc.edu.cn/). My research interest includes medical image analysis, fake news detection and efficient AI.
+I'm a third year undergraduate student from [Ocean University of China](https://www.ouc.edu.cn/). My research interest includes medical image analysis, fake news detection, LLM safety and efficient AI.
 
 
 # 🔥 News
