@@ -33,7 +33,7 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 ## 📔 Journals
 
 <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 200px;">
+  <div class="publication-image" style="width: 200px; height: 80px;">
     <div>
       <div class="badge">MD 2025</div>
       <img src="/images/medical physics.png" alt="MD 2025">
