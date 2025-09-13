@@ -1,0 +1,548 @@
+.highlight-box {
+  background: #f8f9fa;
+  border-left: 4px solid #007bff;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 8px 8px 0;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+/* 主类别：human-centric tasks 的渐变色 */
+.highlight-text {
+  // background: linear-gradient(120deg, #667eea, #764ba2);
+  // background-image: linear-gradient(25deg, #000000,#000000);
+  // -webkit-background-clip: text;
+  // -webkit-text-fill-color: transparent;
+  // background-clip: text;
+  font-weight: 1000;
+  font-style: italic; /* 添加这行来实现斜体 */
+  padding: 0.1em 0.2em;
+}
+
+/* 子类别的渐变色 - 更柔和的蓝绿色系 */
+.highlight-text.sub-category {
+  // background: linear-gradient(120deg, #2f9fab, #4d8b88);
+  // background-image: linear-gradient(25deg, #000000,#000000);
+  // -webkit-background-clip: text;
+  // -webkit-text-fill-color: transparent;
+  // background-clip: text;
+  font-weight: 1000;
+  font-style: italic; /* 添加这行来实现斜体 */
+  padding: 0.1em 0.2em;
+}
+
+/* 方案一：卡片式布局 */
+.research-section {
+  margin: 2em 0;
+}
+
+.section-title {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  color: #333;
+}
+
+.research-overview {
+  font-size: 1.1em;
+  margin-bottom: 2em;
+  line-height: 1.6;
+  color: #555;
+}
+
+.highlight-keyword {
+  background: linear-gradient(120deg, #667eea, #764ba2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+.research-areas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5em;
+  margin-top: 2em;
+}
+
+.research-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 1.5em;
+  border-left: 4px solid #667eea;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.15);
+}
+
+.card-icon {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.research-card h3 {
+  margin: 0.5em 0;
+  color: #333;
+  font-size: 1.1em;
+}
+
+.research-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-top: 1em;
+}
+
+.research-paper {
+  background: #667eea;
+  color: white;
+  padding: 0.3em 0.8em;
+  border-radius: 15px;
+  font-size: 0.85em;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.research-paper:hover {
+  background: #5a6fd8;
+  color: white;
+}
+
+/* 方案二：流程式布局 */
+.research-interests-flow {
+  margin: 2em 0;
+}
+
+.research-header {
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+.research-header h2 {
+  font-size: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+.research-subtitle {
+  font-size: 1.1em;
+  color: #666;
+}
+
+.research-flow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.flow-item {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5em;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  min-width: 200px;
+  transition: transform 0.3s ease;
+}
+
+.flow-item:hover {
+  transform: scale(1.05);
+}
+
+.flow-number {
+  background: #667eea;
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin: 0 auto 1em;
+}
+
+.flow-content h3 {
+  margin: 0 0 1em 0;
+  color: #333;
+  font-size: 1em;
+}
+
+.flow-papers {
+  font-size: 0.9em;
+}
+
+.flow-papers a {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.flow-arrow {
+  font-size: 1.5em;
+  color: #667eea;
+  font-weight: bold;
+}
+
+.research-interests-section {
+  margin: 3em 0;
+  padding: 2em 0;
+}
+
+.research-title {
+  text-align: center;
+  font-size: 1.8em;
+  margin-bottom: 1em;
+  color: #333;
+}
+
+.research-overview {
+  text-align: center;
+  font-size: 1.1em;
+  margin-bottom: 3em;
+  color: #666;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+}
+
+.human-centered-diagram {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.central-human {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 10;
+}
+
+.human-icon {
+  width: 100px;
+  height: 100px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1em;
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+  animation: pulse 2s infinite;
+}
+
+.human-image {
+  width: 60px;
+  height: 60px;
+  filter: brightness(0) invert(1);
+}
+
+.human-label {
+  font-weight: 600;
+  color: #333;
+  font-size: 0.9em;
+  line-height: 1.3;
+}
+
+.research-branch {
+  position: absolute;
+}
+
+.branch-1 {
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.branch-2 {
+  top: 50%;
+  right: 5%;
+  transform: translateY(-50%);
+}
+
+.branch-3 {
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.branch-4 {
+  top: 50%;
+  left: 5%;
+  transform: translateY(-50%);
+}
+
+.branch-line {
+  position: absolute;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  z-index: 1;
+}
+
+.line-1 {
+  width: 3px;
+  height: 120px;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.line-2 {
+  width: 120px;
+  height: 3px;
+  top: 50%;
+  right: 100%;
+  transform: translateY(-50%);
+}
+
+.line-3 {
+  width: 3px;
+  height: 120px;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.line-4 {
+  width: 120px;
+  height: 3px;
+  top: 50%;
+  left: 100%;
+  transform: translateY(-50%);
+}
+
+.research-node {
+  background: white;
+  border-radius: 15px;
+  padding: 1.5em;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border: 2px solid #f0f0f0;
+  min-width: 250px;
+  text-align: center;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 5;
+}
+
+.research-node:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 35px rgba(102, 126, 234, 0.2);
+  border-color: #667eea;
+}
+
+.node-icon {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+.research-node h3 {
+  margin: 0.5em 0 1em 0;
+  color: #333;
+  font-size: 1em;
+  line-height: 1.3;
+}
+
+.research-papers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  justify-content: center;
+}
+
+.paper-tag {
+  background: #667eea;
+  color: white;
+  padding: 0.3em 0.8em;
+  border-radius: 12px;
+  font-size: 0.8em;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.paper-tag:hover {
+  background: #5a6fd8;
+  color: white;
+}
+
+.research-interests-wrapper {
+  margin: 2em 0;
+}
+
+.research-header {
+  margin-bottom: 1.5em;
+  line-height: 1.6;
+}
+
+.research-diagram {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  position: relative;
+}
+
+.research-image-container {
+  flex-shrink: 0;
+  position: relative;
+}
+
+.research-central-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #667eea;
+  box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+}
+
+.research-list-container {
+  flex: 1;
+  position: relative;
+}
+
+.connection-lines {
+  position: absolute;
+  left: -2em;
+  top: 0;
+  height: 100%;
+  width: 2em;
+}
+
+.line {
+  position: absolute;
+  background: linear-gradient(to right, #667eea, #764ba2);
+  height: 2px;
+  width: 100%;
+}
+
+.line-1 {
+  top: 12.5%;
+}
+
+.line-2 {
+  top: 37.5%;
+}
+
+.line-3 {
+  top: 62.5%;
+}
+
+.line-4 {
+  top: 87.5%;
+}
+
+.research-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.research-item {
+  padding: 0.5em 0;
+  line-height: 1.6;
+}
+
+.research-item:first-child {
+  margin-top: 0;
+}
+
+.research-item:last-child {
+  margin-bottom: 0;
+}
+
+.research-with-image {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+  margin: 1.5em 0;
+  // flex-direction: row-reverse; /* 添加这行来让图片显示在右边 */
+}
+
+.research-image {
+  flex-shrink: 0;
+}
+
+.research-image img {
+  width: 140px;
+  height: 160px;
+  object-fit: cover;
+  /* 移除了 border-radius, border, box-shadow */
+}
+
+.research-content {
+  flex: 1;
+  line-height: 1.6;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .research-flow {
+    flex-direction: column;
+  }
+  
+  .flow-arrow {
+    transform: rotate(90deg);
+  }
+  
+  .human-centered-diagram {
+    height: auto;
+    flex-direction: column;
+    gap: 2em;
+    padding: 2em 0;
+  }
+  
+  .research-branch {
+    position: static;
+    transform: none;
+  }
+  
+  .branch-line {
+    display: none;
+  }
+  
+  .research-node {
+    min-width: 280px;
+    margin: 1em 0;
+  }
+  
+  .research-diagram {
+    flex-direction: column;
+    gap: 1.5em;
+  }
+  
+  .connection-lines {
+    display: none;
+  }
+  
+  .research-central-image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .research-list-container {
+    width: 100%;
+  }
+  
+  .research-with-image {
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+  }
+  
+  .research-image img {
+    width: 100px;
+    height: 100px;
+  }
+}

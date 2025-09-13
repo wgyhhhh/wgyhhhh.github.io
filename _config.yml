@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangyu Wei"
-description              : "Focusing on efficient deployment and fake news detection"
+title                    : "Guangyu Wei (魏光宇)"
+description              : " "
 repository               : "wgyhhhh/wgyhhhh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guangyu Wei"
+  name             : "Guangyu Wei (魏光宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Haide College"
+  bio              : "Undergraduate @ OUC"
   location         : "Qingdao, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AH8HC4ySmM49DipxaSz5HMxcbqanbCHq50glj5jc2kC7U5M3cOUI68qCCJWL5rph6ldtcgOCer4_hucSEwLUfWIJPBYJA0I&user=MgmiOAsAAAAJ"
   email            : "wgyhhh001@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://wgyhhhh.github.io/"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wgyhhhh"
+  github           : "wgyhhhh"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:

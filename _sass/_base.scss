@@ -38,6 +38,33 @@ h2 {
   font-size: $type-size-4;
 }
 
+.title-text{
+  // background: linear-gradient(to right, #3a7bd5, #3a6073);
+  background: linear-gradient(25deg, #2a55b9, #2773cc, #2a55b9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.rank-text{
+  // background: linear-gradient(to right,   #fc4a1a, #f7b733, #fc4a1a);
+  background: linear-gradient(to right, #f85032, #e73827);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}
+
+.venue-text{
+  background: linear-gradient(to right, #f85032, #e73827);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}
+
 h3 {
   font-size: $type-size-5;
 }

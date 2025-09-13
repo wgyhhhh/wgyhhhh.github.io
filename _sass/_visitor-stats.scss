@@ -1,0 +1,28 @@
+/* 最简单的访问地图样式 */
+.visitor-map-section {
+  margin-top: 2em;
+  text-align: center;
+  // border-top: 1px solid #eee;
+  padding-top: -2em;
+  padding-bottom: 1em;
+}
+
+.visitor-map-title {
+  margin-bottom: 1em;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.clustrmaps-widget {
+  /* 控制地图容器大小 */
+  max-width: 300px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.clustrmaps-widget iframe {
+  /* 缩放地图 */
+  transform: scale(0.7);
+  transform-origin: center;
+  width: 100%;
+}

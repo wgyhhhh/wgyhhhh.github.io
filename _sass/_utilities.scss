@@ -211,8 +211,23 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    // color: $github-color;
+    color: #171516; // 或者使用 #24292e
   }
+
+  // Google Scholar - 使用 Academicons 图标
+  .ai-google-scholar,
+  .ai-google-scholar-square {
+    color: #4285f4; // Google 蓝色
+  }
+
+  // ORCID (如果使用)
+  .ai-orcid {
+    color: #a6ce39; // ORCID 绿色
+  }
+  // .ai-orcid-square {
+  //   color: #a6ce39; // ORCID 绿色
+  // }
 
   .fa-google-plus,
   .fa-google-plus-square {
