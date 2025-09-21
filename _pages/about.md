@@ -55,6 +55,7 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 # 🎖️ Honors and Awards
 
 Provincial first prize in National Mathematical Contest in Modeling (CUMCM), 2023.10
+
 Provincial first prize in National Mathematical Contest in Modeling (CUMCM), 2024.10
 
 # 📖 Educations
