@@ -19,7 +19,9 @@ redirect_from:
 
 I'm a senior student from [Ocean University of China](https://www.ouc.edu.cn/). My research interest includes medical image analysis, fake news detection, LLM safety and efficient AI.
 
-Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interested in discussing with me. Thanks a lot!
+Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interested in discussing with me.
+
+
 # 🔥 News
 
 - &nbsp;🎉🎉 *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
@@ -33,7 +35,7 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 ## 📔 Journals
 
 <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 80px;">
+  <div class="publication-image" style="width: 200px; height: 100px;">
     <div>
       <div class="badge">MD 2025</div>
       <img src="/images/medical physics.png" alt="MD 2025">
@@ -52,13 +54,16 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 
 # 🎖️ Honors and Awards
 
+Provincial first prize in National Mathematical Contest in Modeling (CUMCM), 2023.10
+Provincial first prize in National Mathematical Contest in Modeling (CUMCM), 2024.10
+
 # 📖 Educations
-- *2022.09 - 2025.06(now)*, Undergraduate, Haide College, Ocean Univeristy of China, Qingdao. 
+- *2022.09 - 2025.09(now)*, Undergraduate, Haide College, Ocean Univeristy of China, Qingdao. 
 
-# 👨‍💻 Personal Blog
+# 💡 D. Patents
 
+# 💬 Teaching
 
-
-# 💻 Experience
+# 💻 Internships
 - Internship, *2024.12 - present*
   - University of Nanjing, School of Intelligence Science and Technology. Advised by Dr. **Yueming LV** while working on fake news detection, LLM safety.
