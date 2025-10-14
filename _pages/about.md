@@ -72,11 +72,11 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 
 # 🎖️ Honors and Awards
 
-- Provincial First Prize, National Mathematical Contest in Modeling (CUMCM) (Oct 2023, Oct 2024, Oct 2025)
+- Provincial First Prize×3, National Mathematical Contest in Modeling (CUMCM) (Oct 2023, Oct 2024, Oct 2025)
 
 
 # 📖 Educations
-- *2022.09 - 2025.09(now)*, Undergraduate, Haide College, Ocean Univeristy of China, Qingdao. 
+- *2022.09 - present*, Undergraduate, Mathematics and Applied Mathematics, Ocean Univeristy of China (OUC), China. 
 
 # 💡 D. Patents
 
