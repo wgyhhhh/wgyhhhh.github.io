@@ -30,6 +30,24 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 
 ## 📜Preprints
 
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 100px;">
+    <div>
+      <div class="badge">arXiv 2025</div>
+      <img src="/images/ease.png" alt="arXiv 2025">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">Towards Real-Time Fake News Detection under Evidence Scarcity</span>, <br />
+     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Han Ke, Yueming Lyu*, Yu Luo, Yue Jiang, Caifeng Shan, Nicu Sebe <br>
+    <em>arXiv</em>, 2025.
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2510.11277" class="publication-link-tag paper">Paper</a>
+      <a href="https://github.com/wgyhhhh/EASE" class="publication-link-tag github">Code</a>
+    </div>
+  </div>
+</div>
+
 ## 📄 Conferences
 
 ## 📔 Journals
@@ -43,7 +61,7 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
   </div>
   <div class="publication-content">
     <span class="title-text">Deep Learning Model for Coronary Artery Segmentation and Quantitative Stenosis Detection in Angiographic Images</span>, <br />
-     B. Huang, Y. Luo, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">G. Wei</span>, Y. He, S. Shao, Y. Zeng*, Q. Zhang* <br>
+     Baixiang Huang, Yu Luo, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Songyan He, Yushuang Shao, Xueying Zeng*, Qing Zhang* <br>
     <em>Medical Physics</em> (<span class="venue-text">MD</span>, <span class="rank-text">JCR-Q1</span>, <span class="rank-text">IF=3.2</span>), 2025.
     <div class="publication-links">
       <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970" class="publication-link-tag paper">Paper</a>
@@ -54,9 +72,14 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 
 # 🎖️ Honors and Awards
 
-Provincial first prize in National Mathematical Contest in Modeling (CUMCM), 2023.10
+- **National Mathematical Contest in Modeling (CUMCM)** - Provincial First Prize
+  <details>
+  <summary><b>See details</b></summary>
+  - Oct 2025 
+  - Oct 2024
+  - Oct 2023
+  </details>
 
-Provincial first prize in National Mathematical Contest in Modeling (CUMCM), 2024.10
 
 # 📖 Educations
 - *2022.09 - 2025.09(now)*, Undergraduate, Haide College, Ocean Univeristy of China, Qingdao. 
