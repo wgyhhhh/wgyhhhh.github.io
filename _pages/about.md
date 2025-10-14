@@ -39,7 +39,7 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
   </div>
   <div class="publication-content">
     <span class="title-text">Towards Real-Time Fake News Detection under Evidence Scarcity</span>, <br />
-     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Han Ke, Yueming Lyu*, Yu Luo, Yue Jiang, Caifeng Shan, Nicu Sebe <br>
+     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Ke Han, Yueming Lyu*, Yu Luo, Yue Jiang, Caifeng Shan, Nicu Sebe <br>
     <em>arXiv</em>, 2025.
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2510.11277" class="publication-link-tag paper">Paper</a>
