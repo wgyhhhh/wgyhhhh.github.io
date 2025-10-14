@@ -84,4 +84,4 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 
 # 💻 Internships
 - Internship, *2024.12 - present*
-  - University of Nanjing, School of Intelligence Science and Technology. Advised by Dr. **Yueming LV** while working on fake news detection, LLM safety.
+  - University of Nanjing, School of Intelligence Science and Technology. Advised by Prof. **Yueming LV** while working on fake news detection, LLM safety.
