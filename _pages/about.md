@@ -31,7 +31,7 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 ## 📜Preprints
 
 <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 100px;">
+  <div class="publication-image" style="width: 200px; height: 80px;">
     <div>
       <div class="badge">arXiv 2025</div>
       <img src="/images/ease.png" alt="arXiv 2025">
@@ -72,13 +72,7 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 
 # 🎖️ Honors and Awards
 
-- **National Mathematical Contest in Modeling (CUMCM)** - Provincial First Prize
-  <details>
-  <summary><b>See details</b></summary>
-  - Oct 2025 
-  - Oct 2024
-  - Oct 2023
-  </details>
+- Provincial First Prize, National Mathematical Contest in Modeling (CUMCM) (Oct 2023, Oct 2024, Oct 2025)
 
 
 # 📖 Educations
