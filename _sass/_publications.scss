@@ -152,6 +152,7 @@
 
 
 /* Link button styles with animation */
+/* Link button styles with animation */
 .publication-link-tag {
   display: inline-flex; /* 改为inline-flex */
   align-items: center; /* 垂直居中对齐 */
@@ -183,20 +184,32 @@
 
 /* Hover状态时闪烁效果 */
 .publication-link-tag.github:hover {
-  animation: flicker 0.6s infinite alternate;
+  animation: flicker 1s infinite alternate; /* 增加时间和重复次数 */
   background-color: #24292f;
   color: #ffffff;
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* 闪烁动画 */
+/* 更细致的闪烁动画 */
 @keyframes flicker {
   0% {
     background-color: #24292f;
     color: #ffffff;
   }
-  50% {
+  20% {
+    background-color: #333333; /* 轻微的深色变化 */
+    color: #e0e0e0; /* 轻微的浅色变化 */
+  }
+  40% {
+    background-color: #d0d7de;
+    color: #24292f;
+  }
+  60% {
+    background-color: #333333; /* 轻微的深色变化 */
+    color: #e0e0e0; /* 轻微的浅色变化 */
+  }
+  80% {
     background-color: #d0d7de;
     color: #24292f;
   }
@@ -205,6 +218,7 @@
     color: #ffffff;
   }
 }
+
 
 /* Demo 标签 */
 .publication-link-tag.demo {
@@ -236,13 +250,40 @@
 .publication-link-tag.paper {
   color: #856404;
   border-color: #ffeaa7;
+  transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Hover状态时闪烁效果 */
 .publication-link-tag.paper:hover {
+  animation: flicker-paper 1.5s infinite alternate; /* 添加闪烁动画 */
   background-color: #856404;
   color: #ffffff;
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* 闪烁动画 */
+@keyframes flicker-paper {
+  0% {
+    background-color: #856404;
+    color: #ffffff;
+  }
+  25% {
+    background-color: #6c4f19; /* 深一点的金色 */
+    color: #ffeaa7; /* 浅金色 */
+  }
+  50% {
+    background-color: #ffeaa7; /* 浅金色背景 */
+    color: #856404;
+  }
+  75% {
+    background-color: #6c4f19; /* 深一点的金色 */
+    color: #ffeaa7;
+  }
+  100% {
+    background-color: #856404;
+    color: #ffffff;
+  }
 }
 
 /* Project Page 标签 */
