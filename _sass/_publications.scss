@@ -179,35 +179,14 @@
 .publication-link-tag.github {
   color: #24292f;
   border-color: #d0d7de;
-  transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Hover状态时闪烁效果 */
 .publication-link-tag.github:hover {
-  animation: flicker 0.6s infinite alternate;
   background-color: #24292f;
   color: #ffffff;
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
-
-/* 闪烁动画 */
-@keyframes flicker {
-  0% {
-    background-color: #24292f;
-    color: #ffffff;
-  }
-  50% {
-    background-color: #d0d7de;
-    color: #24292f;
-  }
-  100% {
-    background-color: #24292f;
-    color: #ffffff;
-  }
-}
-
-
 
 /* Demo 标签 */
 .publication-link-tag.demo {
