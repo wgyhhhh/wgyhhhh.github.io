@@ -27,6 +27,18 @@ My research areas include medical image analysis, multimedia misinformation dete
 
 - &nbsp;🎉🎉 *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
 
+# 📖 Educations
+
+<div class="education-item">
+  <div class="education-logo">
+    <img src="/images/ouc_main.png" alt="OUC Logo" style="width: 200px; height: 120px;">
+  </div>
+  <div class="education-content">
+    <strong>2022.09 - present, Ocean University of China (OUC), China</strong><br>
+    <strong>Undergraduate</strong> in Mathematics and Applied Mathematics
+  </div>
+</div>
+
 # 📝 Publications 
 
 ## 📜Preprints
@@ -75,20 +87,7 @@ My research areas include medical image analysis, multimedia misinformation dete
 
 - Provincial First Prize×3, National Mathematical Contest in Modeling (CUMCM) (Oct 2023, Oct 2024, Oct 2025)
 
-
-# 📖 Educations
-
-<div class="education-item">
-  <div class="education-logo">
-    <img src="/images/logo/ouc_main.png" alt="OUC Logo" style="width: 200px; height: 120px;">
-  </div>
-  <div class="education-content">
-    <strong>2022.09 - present, Ocean University of China (OUC), China</strong><br>
-    <strong>Undergraduate</strong> in Mathematics and Applied Mathematics
-  </div>
-</div>
-
-# 💡 D. Patents
+# 💡 Patents
 
 # 💬 Teaching
 
