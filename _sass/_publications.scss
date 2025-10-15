@@ -179,14 +179,17 @@
 .publication-link-tag.github {
   color: #24292f;
   border-color: #d0d7de;
+  background: rgba(255, 255, 255, 0.9); /* 初始背景色 */
 }
 
 .publication-link-tag.github:hover {
-  background-color: #24292f;
+  background: linear-gradient(45deg, #24292f, #d0d7de); /* 背景渐变 */
   color: #ffffff;
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-color: transparent; /* 去除边框颜色 */
 }
+
 
 /* Demo 标签 */
 .publication-link-tag.demo {
