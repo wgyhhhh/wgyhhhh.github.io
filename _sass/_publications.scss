@@ -152,63 +152,57 @@
 
 
 /* 链接标签样式 - 现代化优化 */
+/* Link button styles with animation */
 .publication-link-tag {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 8px 14px;
-  margin-right: 0;
-  margin-bottom: 0;
-  border-radius: 8px;
-  font-family: 'SF Mono', 'Monaco', 'Courier New', monospace;
-  font-size: 0.8em;
-  font-weight: 600;
-  text-decoration: none;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  border: none;
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(10px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  height: 32px;
-  line-height: 1;
-  box-sizing: border-box;
-  position: relative;
-  overflow: hidden;
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   padding: 6px 12px;  /* Reduced padding for a smaller button */
+   margin-right: 0;
+   margin-bottom: 0;
+   border-radius: 8px;
+   font-family: 'SF Mono', 'Monaco', 'Coxurier New', monospace;
+   font-size: 0.8em;
+   font-weight: 600;
+   text-decoration: none;
+   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+   border: none;
+   background: rgba(255, 255, 255, 0.95);
+   backdrop-filter: blur(10px);
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+   height: 30px;
+   line-height: 1;
+   box-sizing: border-box;
+   position: relative;
+   overflow: hidden;
+   animation: flicker 1.5s infinite;  /* Flicker effect */
 }
 
-.publication-link-tag::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
-  transition: left 0.5s ease;
+/* Flicker animation for the button */
+@keyframes flicker {
+   0%, 100% { opacity: 1; }
+   50% { opacity: 0.5; }
 }
 
+/* Button hover effects */
 .publication-link-tag:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
-  text-decoration: none;
+   transform: translateY(-2px);
+   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+   text-decoration: none;
 }
 
-.publication-link-tag:hover::before {
-  left: 100%;
-}
-
-/* GitHub 标签 - 现代化优化 */
+/* GitHub styled button with gradient and hover effects */
 .publication-link-tag.github {
-  background: linear-gradient(135deg, #24292f 0%, #2d333b 100%);
-  color: #ffffff;
-  border: 1px solid #2d333b;
+   background: linear-gradient(135deg, #24292f 0%, #2d333b 100%);
+   color: #ffffff;
+   border: 1px solid #2d333b;
 }
 
 .publication-link-tag.github:hover {
-  background: linear-gradient(135deg, #2d333b 0%, #373e47 100%);
-  color: #ffffff;
-  transform: translateY(-2px) scale(1.05);
-  box-shadow: 0 8px 25px rgba(36, 41, 47, 0.4);
+   background: linear-gradient(135deg, #2d333b 0%, #373e47 100%);
+   color: #ffffff;
+   transform: translateY(-2px) scale(1.05);
+   box-shadow: 0 8px 25px rgba(36, 41, 47, 0.4);
 }
 
 /* Demo 标签 */
