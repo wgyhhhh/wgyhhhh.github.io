@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a senior student from [Ocean University of China](https://www.ouc.edu.cn/). My research interest includes medical image analysis, fake news detection, LLM safety and efficient AI.
+I'm a senior student from [Ocean University of China](https://www.ouc.edu.cn/).
 
-Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interested in discussing with me.
+My research areas include medical image analysis, multimedia misinformation detection， vision language model safety, and zeroth-order optimization. If you are seeking any form of academic cooperation, please feel free to email me at ([wgy3129@stu.ouc.edu.cn]()).
+
 
 
 # 🔥 News
@@ -76,7 +77,16 @@ Please feel free to contact me by email (wgyhhh001@gmail.com) if you are interes
 
 
 # 📖 Educations
-- *2022.09 - present*, Undergraduate, Mathematics and Applied Mathematics, Ocean Univeristy of China (OUC), China. 
+
+<div class="education-item">
+  <div class="education-logo">
+    <img src="/images/logo/ouc_main.png" alt="OUC Logo" style="width: 200px; height: 120px;">
+  </div>
+  <div class="education-content">
+    <strong>2022.09 - present, Ocean University of China (OUC), China</strong><br>
+    <strong>Undergraduate</strong> in Mathematics and Applied Mathematics
+  </div>
+</div>
 
 # 💡 D. Patents
 
