@@ -152,25 +152,24 @@
 
 
 /* 链接标签样式 - 现代化优化 */
-/* Link button styles with animation */
 .publication-link-tag {
    display: inline-flex;
    align-items: center;
    justify-content: center;
-   padding: 6px 12px;  /* Reduced padding for a smaller button */
+   padding: 4px 8px;  /* Smaller padding for a more compact button */
    margin-right: 0;
    margin-bottom: 0;
-   border-radius: 8px;
+   border-radius: 6px;  /* Slightly smaller border radius */
    font-family: 'SF Mono', 'Monaco', 'Coxurier New', monospace;
-   font-size: 0.8em;
+   font-size: 0.7em;  /* Reduced font size */
    font-weight: 600;
    text-decoration: none;
    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
    border: none;
    background: rgba(255, 255, 255, 0.95);
    backdrop-filter: blur(10px);
-   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-   height: 30px;
+   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);  /* Slightly smaller shadow */
+   height: 26px;  /* Reduced height */
    line-height: 1;
    box-sizing: border-box;
    position: relative;
@@ -187,7 +186,7 @@
 /* Button hover effects */
 .publication-link-tag:hover {
    transform: translateY(-2px);
-   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);  /* Slightly smaller hover shadow */
    text-decoration: none;
 }
 
@@ -202,8 +201,9 @@
    background: linear-gradient(135deg, #2d333b 0%, #373e47 100%);
    color: #ffffff;
    transform: translateY(-2px) scale(1.05);
-   box-shadow: 0 8px 25px rgba(36, 41, 47, 0.4);
+   box-shadow: 0 4px 20px rgba(36, 41, 47, 0.3);  /* Slightly smaller hover shadow */
 }
+
 
 /* Demo 标签 */
 .publication-link-tag.demo {
