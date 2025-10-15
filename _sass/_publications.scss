@@ -151,7 +151,6 @@
 
 
 
-/* 链接标签样式 - 现代化优化 */
 /* Link button styles with animation */
 .publication-link-tag {
   display: inline-flex; /* 改为inline-flex */
@@ -173,6 +172,7 @@
   height: 20px; /* 与stars图标高度一致 */
   line-height: 1; /* 重置行高 */
   box-sizing: border-box;
+  animation: blink 1.5s infinite; /* 添加闪烁动画 */
 }
 
 /* GitHub 标签 */
@@ -188,6 +188,20 @@
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-color: transparent; /* 去除边框颜色 */
+  animation: none; /* 悬停时移除闪烁效果 */
+}
+
+/* 闪烁动画 */
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 
