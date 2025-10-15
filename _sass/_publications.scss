@@ -152,32 +152,32 @@
 
 
 /* 链接标签样式 - 现代化优化 */
+/* Link button styles with animation */
 .publication-link-tag {
    display: inline-flex;
    align-items: center;
    justify-content: center;
-   padding: 4px 8px;  /* Smaller padding for a more compact button */
+   padding: 3px 6px;  /* 更小的内边距 */
    margin-right: 0;
    margin-bottom: 0;
-   border-radius: 6px;  /* Slightly smaller border radius */
+   border-radius: 4px;  /* 更小的圆角 */
    font-family: 'SF Mono', 'Monaco', 'Coxurier New', monospace;
-   font-size: 0.7em;  /* Reduced font size */
+   font-size: 0.6em;  /* 更小的字体 */
    font-weight: 600;
    text-decoration: none;
    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
    border: none;
    background: rgba(255, 255, 255, 0.95);
    backdrop-filter: blur(10px);
-   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);  /* Slightly smaller shadow */
-   height: 26px;  /* Reduced height */
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* 更小的阴影 */
+   height: 22px;  /* 更小的高度 */
    line-height: 1;
    box-sizing: border-box;
    position: relative;
    overflow: hidden;
-   animation: flicker 1.5s infinite;  /* Flicker effect */
 }
 
-/* Flicker animation for the button */
+/* Flicker animation for the button on hover */
 @keyframes flicker {
    0%, 100% { opacity: 1; }
    50% { opacity: 0.5; }
@@ -186,8 +186,9 @@
 /* Button hover effects */
 .publication-link-tag:hover {
    transform: translateY(-2px);
-   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);  /* Slightly smaller hover shadow */
+   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);  /* 更小的 hover 阴影 */
    text-decoration: none;
+   animation: flicker 1.5s infinite;  /* 仅在 hover 时触发闪烁 */
 }
 
 /* GitHub styled button with gradient and hover effects */
@@ -201,8 +202,9 @@
    background: linear-gradient(135deg, #2d333b 0%, #373e47 100%);
    color: #ffffff;
    transform: translateY(-2px) scale(1.05);
-   box-shadow: 0 4px 20px rgba(36, 41, 47, 0.3);  /* Slightly smaller hover shadow */
+   box-shadow: 0 4px 20px rgba(36, 41, 47, 0.3);  /* 更小的 hover 阴影 */
 }
+
 
 
 /* Demo 标签 */
