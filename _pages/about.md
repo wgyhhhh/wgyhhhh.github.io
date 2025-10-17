@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a senior student from [Ocean University of China](https://www.ouc.edu.cn/).
 
-My research areas include medical image analysis, multimedia misinformation detection， vision language model safety, and zeroth-order optimization. If you are seeking any form of academic cooperation, please feel free to email me at ([wgy3129@stu.ouc.edu.cn]()).
+My research areas include medical image analysis, multimedia misinformation detection, vision language model safety and zeroth-order optimization. If you are seeking any form of academic cooperation, please feel free to email me at ([wgy3129@stu.ouc.edu.cn]()).
 
 
 
