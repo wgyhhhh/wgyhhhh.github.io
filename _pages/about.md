@@ -25,9 +25,9 @@ My research areas include medical image analysis, multimedia misinformation dete
 
 # 🔥 News
 
-- &nbsp;🎉🎉 *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
 - &nbsp;🎉🎉 *2025.10* One paper has been accepted by Journal of Imaging Informatics in Medicine (JCR-Q1).
-- 
+- &nbsp;🎉🎉 *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
+
 # 📖 Educations
 
 <div class="education-item">
