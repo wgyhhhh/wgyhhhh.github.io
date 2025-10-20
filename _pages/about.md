@@ -85,7 +85,7 @@ My research areas include medical image analysis, multimedia misinformation dete
 </div>
 
 <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 100px;">
+  <div class="publication-image" style="width: 200px; height: 180px;">
     <div>
       <div class="badge">JDIM 2025</div>
       <img src="/images/jmid.png" alt="JDIM 2025">
