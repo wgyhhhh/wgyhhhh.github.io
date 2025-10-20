@@ -26,7 +26,8 @@ My research areas include medical image analysis, multimedia misinformation dete
 # 🔥 News
 
 - &nbsp;🎉🎉 *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
-
+- &nbsp;🎉🎉 *2025.10* One paper has been accepted by Journal of Imaging Informatics in Medicine (JCR-Q1).
+- 
 # 📖 Educations
 
 <div class="education-item">
@@ -79,6 +80,24 @@ My research areas include medical image analysis, multimedia misinformation dete
     <div class="publication-links">
       <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/qimingfan10/SAM-VMNet" class="publication-link-tag github">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 100px;">
+    <div>
+      <div class="badge">JDIM 2025</div>
+      <img src="/images/jmid.png" alt="JDIM 2025">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">FlowVM-Net: Enhanced Vessel Segmentation in X-Ray Coronary Angiography Using Temporal Information Fusion</span>, <br />
+     <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Xueying Zeng*, Qing Zhang* <br>
+    <em>Journal of Imaging Informatics in Medicine</em> (<span class="venue-text">JDIM</span>, <span class="rank-text">JCR-Q1</span><span class="rank-text"></span>), 2025.
+    <div class="publication-links">
+      <a href="" class="publication-link-tag paper">Paper</a>
+      <a href="https://github.com/wgyhhhh/FlowVM-Net" class="publication-link-tag github">Code</a>
     </div>
   </div>
 </div>
