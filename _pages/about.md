@@ -25,7 +25,7 @@ My research areas include medical image analysis, multimedia misinformation dete
 
 # 🔥 News
 
-- &nbsp;🎉🎉 *2025.10* One paper has been accepted by Journal of Imaging Informatics in Medicine (JCR-Q1).
+- &nbsp;🎉🎉 *2025.10* One paper has been accepted by Journal of Imaging Informatics in Medicine (JCR-Q1, IF=3.8).
 - &nbsp;🎉🎉 *2025.06* One paper has been accepted by Medical Physics (JCR-Q1, IF=3.2).
 
 # 📖 Educations
@@ -76,7 +76,7 @@ My research areas include medical image analysis, multimedia misinformation dete
   <div class="publication-content">
     <span class="title-text">FlowVM-Net: Enhanced Vessel Segmentation in X-Ray Coronary Angiography Using Temporal Information Fusion</span>, <br />
      <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Xueying Zeng*, Qing Zhang* <br>
-    <em>Journal of Imaging Informatics in Medicine</em> (<span class="venue-text">JDIM</span>, <span class="rank-text">JCR-Q1</span><span class="rank-text"></span>), 2025.
+    <em>Journal of Imaging Informatics in Medicine</em> (<span class="venue-text">JDIM</span>, <span class="rank-text">JCR-Q1</span><span class="rank-text"></span>, <span class="rank-text">IF=3.2</span>), 2025.
     <div class="publication-links">
       <a href="" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/wgyhhhh/FlowVM-Net" class="publication-link-tag github">Code</a>
@@ -106,12 +106,20 @@ My research areas include medical image analysis, multimedia misinformation dete
 
 # 🎖️ Honors and Awards
 
-- Provincial First Prize×3, National Mathematical Contest in Modeling (CUMCM) (Oct 2023, Oct 2024, Oct 2025)
+- Three Consecutive Provincial First Prize, National Mathematical Contest in Modeling (CUMCM), 2023.10-2025.10
+- National Second Prize, MathorCup University Mathematical Modeling Challenge, 2024.06
+
 
 # 💡 Patents
+
+- <span class="title-text"> A fully automated method for vessel segmentation and stenosis detection from angiographic images</span>, <br />
+Xueying Zeng, Baixiang Huang, Yu Luo, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Songyan He, Yushuang Shao, Qing Zhang, <br />
+Public Number: CN 119477838 A, Application Date: 2024-10-30, Public Date: 2025-02-18
+
+
 
 # 💬 Teaching
 
 # 💻 Internships
 - Internship, *2024.12 - present*
-  - University of Nanjing, School of Intelligence Science and Technology. Advised by Prof. **Yueming LV** while working on fake news detection, LLM safety.
+  - University of Nanjing, School of Intelligence Science and Technology. Advised by Prof. **Yueming LV** while working on Fake News Detection, VLM Safety.
