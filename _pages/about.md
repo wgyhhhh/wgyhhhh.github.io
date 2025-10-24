@@ -76,7 +76,7 @@ My research areas include medical image analysis, multimedia misinformation dete
   <div class="publication-content">
     <span class="title-text">FlowVM-Net: Enhanced Vessel Segmentation in X-Ray Coronary Angiography Using Temporal Information Fusion</span>, <br />
      <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Xueying Zeng*, Qing Zhang* <br>
-    <em>Journal of Imaging Informatics in Medicine</em> (<span class="venue-text">JDIM</span>, <span class="rank-text">JCR-Q1</span><span class="rank-text"></span>, <span class="rank-text">IF=3.2</span>), 2025.
+    <em>Journal of Imaging Informatics in Medicine</em> (<span class="venue-text">JDIM</span>, <span class="rank-text">JCR-Q1</span><span class="rank-text"></span>, <span class="rank-text">IF=3.8</span>), 2025.
     <div class="publication-links">
       <a href="" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/wgyhhhh/FlowVM-Net" class="publication-link-tag github">Code</a>
