@@ -16,6 +16,7 @@
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2510.11277" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/wgyhhhh/EASE" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/wgyhhhh/EASE?style=social" alt="GitHub stars" class="github-stars">
     </div>
   </div>
 </div>
@@ -38,6 +39,7 @@
     <div class="publication-links">
       <a href="https://link.springer.com/article/10.1007/s10278-025-01732-y" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/wgyhhhh/FlowVM-Net" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/wgyhhhh/FlowVM-Net?style=social" alt="GitHub stars" class="github-stars">
     </div>
   </div>
 </div>
@@ -56,6 +58,8 @@
     <div class="publication-links">
       <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/qimingfan10/SAM-VMNet" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/qimingfan10/SAM-VMNet?style=social" alt="GitHub stars" class="github-stars">
+      <img src="https://img.shields.io/github/forks/qimingfan10/SAM-VMNet?style=social" alt="GitHub forks" class="github-forks">
     </div>
   </div>
 </div>
