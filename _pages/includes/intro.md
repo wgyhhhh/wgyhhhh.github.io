@@ -1,10 +1,24 @@
 # 🧑 About Me
 
-I'm a senior student from [Ocean University of China](https://www.ouc.edu.cn/).
+I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I will graduate in 2026 with a Bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematical Sciences. During my undergraduate studies, I had the honor of being guided by [Xueying Zeng](https://www.researchgate.net/profile/Xueying-Zeng) and [Yueming Lv](https://yueming6568.github.io/).
 
-My research areas include medical image analysis, multimedia misinformation detection, vision language model safety and zeroth-order optimization. If you are seeking any form of academic cooperation, please feel free to email me at ([wgy3129@stu.ouc.edu.cn]()).
+<div class="research-with-image">
+  <div class="research-image">
+    <img src="/images/consider.png" alt="Research Image">
+  </div>
+  <div class="research-content">
+    <strong>🔬 Research Interests:</strong> My research focuses on <span class="highlight-text">medical image analysis</span>, multimedia misinformation detection<span class="highlight-text sub-category">vision language model safety</span>, <span class="highlight-text sub-category">and AI security.</span>, <span class="highlight-text sub-category"> To date, I have been the core contributor to several projects closely aligned with my research interests: <br>
+    
+    - <span class="highlight-text sub-category">multimedia misinformation detection</span>: 
+    <a href="https://arxiv.org/abs/2510.11277">arXiv25</a> <br>
+    
+    - <span class="highlight-text sub-category">human action understanding</span>: 
+    <a href="https://link.springer.com/article/10.1007/s10278-025-01732-y">JDIM25</a>,
+    <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970">MD25</a>, 
+  </div>
+</div>
 
-During my undergraduate studies, I had the honor of being guided by [Xueying Zeng](https://www.researchgate.net/profile/Xueying-Zeng) and [Yueming Lv](https://yueming6568.github.io/).
+If you are seeking any form of academic cooperation, please feel free to email me at ([wgy3129@stu.ouc.edu.cn]()).
 
 # 📖 Educations
 
