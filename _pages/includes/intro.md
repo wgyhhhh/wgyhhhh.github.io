@@ -14,7 +14,7 @@ I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I w
     
     - <span class="highlight-text sub-category">human action understanding</span>: 
     <a href="https://link.springer.com/article/10.1007/s10278-025-01732-y">JDIM25</a>,
-    <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970">MD25</a>, 
+    <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970">MD25</a>  <br>
   </div>
 </div>
 
