@@ -5,4 +5,4 @@
 
 # 💻 Internships
 - Internship, *2024.12 - present*
-  - University of Nanjing, School of Intelligence Science and Technology. Advised by Prof. **Yueming LV** while working on Fake News Detection, VLM Safety.
+  - University of Nanjing, School of Intelligence Science and Technology. Advised by Prof. **Yueming Lyu** while working on Fake News Detection, VLM Safety.

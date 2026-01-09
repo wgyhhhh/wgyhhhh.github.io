@@ -1,6 +1,6 @@
 # 🧑 About Me
 
-I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I will graduate in 2026 with a Bachelor's degree in Mathematics and Applied Mathematics. During my undergraduate studies, I had the honor of being guided by [Xueying Zeng](https://www.researchgate.net/profile/Xueying-Zeng) and [Yueming Lv](https://yueming6568.github.io/).
+I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I will graduate in 2026 with a Bachelor's degree in Mathematics and Applied Mathematics. During my undergraduate studies, I had the honor of being guided by [Xueying Zeng](https://www.researchgate.net/profile/Xueying-Zeng) and [Yueming Lyu](https://yueming6568.github.io/).
 
 <div class="research-with-image">
   <div class="research-image">
