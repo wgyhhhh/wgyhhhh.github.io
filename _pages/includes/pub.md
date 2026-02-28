@@ -40,6 +40,7 @@
       <a href="https://link.springer.com/article/10.1007/s10278-025-01732-y" class="publication-link-tag paper">Paper</a>
       <a href="https://github.com/wgyhhhh/FlowVM-Net" class="publication-link-tag github">Code</a>
       <img src="https://img.shields.io/github/stars/wgyhhhh/FlowVM-Net?style=social" alt="GitHub stars" class="github-stars">
+      <img src="https://img.shields.io/github/forks/wgyhhhh/FlowVM-Net?style=social" alt="GitHub forks" class="github-forks">
     </div>
   </div>
 </div>
