@@ -5,6 +5,25 @@
 <div class="publication-item">
   <div class="publication-image" style="width: 200px; height: 80px;">
     <div>
+      <div class="badge">arXiv 2026</div>
+      <img src="/images/SMART.png" alt="arXiv 2026">
+    </div>
+  </div>
+  <div class="publication-content">
+    <span class="title-text">Uncertainty-Aware Concept and Motion Segmentation for Semi-Supervised Angiography Videos</span>, <br />
+     Yu Luo, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span> Yangfan Li*, Jieyu He, Yueming Lyu <br>
+    <em>arXiv</em>, 2026.
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2603.00881" class="publication-link-tag paper">Paper</a>
+      <a href="https://github.com/qimingfan10/SMART" class="publication-link-tag github">Code</a>
+      <img src="https://img.shields.io/github/stars/qimingfan10/SMART?style=social" alt="GitHub stars" class="github-stars">
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-image" style="width: 200px; height: 80px;">
+    <div>
       <div class="badge">arXiv 2025</div>
       <img src="/images/ease.png" alt="arXiv 2025">
     </div>
