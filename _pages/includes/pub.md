@@ -3,7 +3,7 @@
 ## 📜Preprints
 
 <div class="publication-item">
-  <div class="publication-image" style="width: 200px; height: 80px;">
+  <div class="publication-image" style="width: 200px; height: 100px;">
     <div>
       <div class="badge">arXiv 2026</div>
       <img src="/images/SMART.png" alt="arXiv 2026">
