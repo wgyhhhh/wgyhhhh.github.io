@@ -11,7 +11,7 @@
   </div>
   <div class="publication-content">
     <span class="title-text">Uncertainty-Aware Concept and Motion Segmentation for Semi-Supervised Angiography Videos</span>, <br />
-     Yu Luo, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span> Yangfan Li*, Jieyu He, Yueming Lyu <br>
+     Yu Luo, <span style="font-weight: 700; font-size: 16px; text-decoration: underline;">Guangyu Wei</span>, Yangfan Li*, Jieyu He, Yueming Lyu <br>
     <em>arXiv</em>, 2026.
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2603.00881" class="publication-link-tag paper">Paper</a>
