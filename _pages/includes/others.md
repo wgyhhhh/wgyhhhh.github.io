@@ -1,6 +1,6 @@
 # 💬 Teaching
 
-- 2025.09 - present, Teaching Assistant, Decision Science, Ocean University of China.
+- 2025.09 - 2026.01, Teaching Assistant, Decision Science, Ocean University of China.
 
 
 # 💻 Internships
