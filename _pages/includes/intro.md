@@ -17,7 +17,7 @@ I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I w
     <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970">MD25</a>  <br>
   </div>
 </div>
-<span style="color: #dc3545; font-weight: 500;">If you are seeking any form of academic cooperation, please feel free to email me at ([wgy3129@stu.ouc.edu.cn]()).</span>
+<span style="color: #dc3545; font-weight: 500;">If you are seeking any form of academic cooperation, please feel free to email me at ([gywei@stu.ouc.edu.cn]()).</span>
 
 # 📖 Educations
 
