@@ -1,13 +1,13 @@
 # 🧑 About Me
 
-I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I will graduate in 2026 with a Bachelor's degree in Mathematics and Applied Mathematics. During my undergraduate studies, I had the honor of being guided by [Prof. Xueying Zeng](https://www.researchgate.net/profile/Xueying-Zeng), [Prof. Yueming Lyu](https://yueming6568.github.io/) and [Dr. Ke Han](https://scholar.google.com/citations?user=aTZSYhwAAAAJ&hl).
+I am Wei Guangyu, currently pursuing a Master of Philosophy degree at the Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)). Prior to that, I received my B.S. degree from [Ocean University of China](https://www.ouc.edu.cn/) in 2026. During my undergraduate studies, I had the honor of being guided by [Prof. Xueying Zeng](https://www.researchgate.net/profile/Xueying-Zeng), [Prof. Yueming Lyu](https://yueming6568.github.io/) and [Dr. Ke Han](https://scholar.google.com/citations?user=aTZSYhwAAAAJ&hl).
 
 <div class="research-with-image">
   <div class="research-image">
     <img src="/images/consider.png" alt="Research Image">
   </div>
   <div class="research-content">
-    <strong>🔬 Research Interests:</strong> My research focuses on <span class="highlight-text sub-category">medical image analysis</span>, <span class="highlight-text sub-category">multimedia misinformation detection</span>, <span class="highlight-text sub-category">vision language model safety</span>, <span class="highlight-text sub-category">and AI security</span>. To date, I have been the core contributor to several projects closely aligned with my research interests: <br>
+    <strong>🔬 Research Interests:</strong> My research focuses on <span class="highlight-text sub-category">medical image analysis</span>, <span class="highlight-text sub-category">multimedia misinformation detection</span>, <span class="highlight-text sub-category"></span>, <span class="highlight-text sub-category">and AI security</span>. To date, I have been the core contributor to several projects closely aligned with my research interests: <br>
 
     - <span class="highlight-text sub-category">multimedia misinformation detection</span>: 
     <a href="https://arxiv.org/abs/2510.11277">arXiv25</a> <br>
@@ -15,7 +15,8 @@ I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I w
     - <span class="highlight-text sub-category">medical image analysis</span>: 
     <a href="https://link.springer.com/article/10.1007/s10278-025-01732-y">JDIM25</a>,
     <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17970">MD25</a>  <br>
-  </div>
+
+</div>
 </div>
 <span style="color: #dc3545; font-weight: 500;">If you are seeking any form of academic cooperation, please feel free to email me at ([gywei@stu.ouc.edu.cn]()).</span>
 
@@ -26,7 +27,7 @@ I am a senior at [Ocean University of China](https://www.ouc.edu.cn/), where I w
     <img src="/images/ouc_main.png" alt="OUC Logo" style="width: 200px; height: 120px;">
   </div>
   <div class="education-content">
-    <strong>2022.09 - present, Ocean University of China (OUC), China</strong><br>
+    <strong>2022.09 - 2026.06, Ocean University of China (OUC), China</strong><br>
     <strong>Undergraduate</strong> in Mathematics and Applied Mathematics
   </div>
 </div>
